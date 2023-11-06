@@ -22,9 +22,9 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
 <a href="https://www.gnu.org/software/bash/"><img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <a href="https://code.visualstudio.com/"><img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<a href="https://visualstudio.microsoft.com/"><img align="left" alt="visualstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain..svg" />
-<a href="https://developer.android.com/"><img align="left" alt="androidstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original..svg" />
-<a href="https://www.jetbrains.com/idea/"><img align="left" alt="intellij" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original..svg" />
+<a href="https://visualstudio.microsoft.com/"><img align="left" alt="visualstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<a href="https://developer.android.com/"><img align="left" alt="androidstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<a href="https://www.jetbrains.com/idea/"><img align="left" alt="intellij" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <br />
 
 #
