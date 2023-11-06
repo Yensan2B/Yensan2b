@@ -27,7 +27,11 @@
 <a href="https://www.jetbrains.com/idea/"><img align="left" alt="intellij" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <br />
 
-#
+---
+
+### 🍂 Coding History
+
+I was unsure about my path until I discover what coding is and the wonder of making applications come to life. This newfound fascination led me to pursue a degree in computer science at John Abbott College. My ultimate aspiration is to delve into the exciting realm of artificial intelligence. Beyond my coding adventures, I have a penchant for continuous learning and personal growth. Currently, I'm immersing myself in learning the guitar, mastering the art of the Japanese language, and staying fit with regular workouts. Life, for me, is all about taking it easy, finding relaxation in the journey, and savoring every moment along the way.
 
 <!--
 **Yensan2B/Yensan2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
