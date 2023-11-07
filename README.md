@@ -8,7 +8,7 @@
 
 ---
 
-### 🍂 Coding History
+### 🍂 About me
 
 
 <div>
