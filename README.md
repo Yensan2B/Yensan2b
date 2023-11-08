@@ -1,6 +1,6 @@
 # 🍹 Yensan2b
 
-**`Full-stack Web Developer`** **`Software Developer`**
+**`Student`**
 
 <div align="center">
   <p font size="1";">Hi👋, I'm Yensan, a programmer who studied at John Abbott College. I love coding in C# and JavaScript, and I'm very interested in the field of AI👽 and game development🎮.</p>
